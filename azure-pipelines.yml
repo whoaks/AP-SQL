@@ -20,5 +20,5 @@ steps:
     location                      : 'East US'
     templateLocation              : 'URL of the file'
     csmFileLink                   : 'https://raw.githubusercontent.com/whoaks/AP-SQL/main/template.json'
-    deploymentMode                : 'Incremental'
+    deploymentMode                : 'Complete'
     deploymentName                : 'deployment'
